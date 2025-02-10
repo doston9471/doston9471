@@ -1,6 +1,6 @@
 ## Hi there, I'm Doston! 👋
 
-🚀 **Sofrware Engineer | Back-End Engineer | Ruby/Ruby on Rails Developer | Full-Stack Engineer**
+🚀 **Software Engineer | Back-End Engineer | Ruby/Ruby on Rails Developer | Full-Stack Engineer**
 
 I'm a passionate full-stack developer with a strong background in building scalable web applications and APIs. I have experience working with various technologies, including Ruby on Rails, JavaScript, Golang, and more. My expertise lies in backend development, API design, and system architecture.
 
