@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there, I'm Doston! 👋
 
-<!--
-**doston9471/doston9471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Sofrware Engineer | Back-End Engineer | Ruby/Ruby on Rails Developer | Full-Stack Engineer**
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with a strong background in building scalable web applications and APIs. I have experience working with various technologies, including Ruby on Rails, JavaScript, Golang, and more. My expertise lies in backend development, API design, and system architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Skills:
+- **Backend:** Ruby on Rails, Golang, Node.js, Express.js, Elixir, Python, Java, C++
+- **Frontend:** JavaScript, TypeScript, React.js, Angular, Hotwire, HTML, CSS, Bootstrap, TailwindCSS
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, NoSQL
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Google Cloud Services, DigitalOcean, Nginx, Heroku, Bitbucket, GitLab CI/CD, GitHub Actions
+- **Testing & Automation:** RSpec, Selenium, Capybara, E2E Testing, Scraping
+- **Other:** REST API, GraphQL API, SOLID, OOP, DDD, Kafka, Sidekiq, ElasticSearch
+
+### 📊 GitHub Stats:
+![Doston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=doston9471&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doston9471&layout=compact&theme=radical)
+
+### 🎯 Hobbies & Interests:
+- 🚀 Exploring new technologies
+- 📖 Reading tech blogs & books
+
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/doston-turgunov-542a89121](https://linkedin.com/in/doston-turgunov-542a89121)
+- **Twitter:** [x.com/doston9471](https://x.com/doston9471)
+- **Email:** doston.7194@gmail.com
+
+📌 Always open to collaboration and new opportunities. Let’s build something amazing together! 🚀
+
