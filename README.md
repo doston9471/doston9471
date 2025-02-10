@@ -8,7 +8,7 @@ I'm a passionate full-stack developer with a strong background in building scala
 - **Backend:** Ruby on Rails, Golang, Node.js, Express.js, Elixir, Python, Java, C++
 - **Frontend:** JavaScript, TypeScript, React.js, Angular, Hotwire, HTML, CSS, Bootstrap, TailwindCSS
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, NoSQL
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Google Cloud Services, DigitalOcean, Nginx, Heroku, Bitbucket, GitLab CI/CD, GitHub Actions
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Google Cloud, DigitalOcean, Heroku, Bitbucket, GitLab CI/CD, GitHub Actions
 - **Testing & Automation:** RSpec, Selenium, Capybara, E2E Testing, Scraping
 - **Other:** REST API, GraphQL API, SOLID, OOP, DDD, Kafka, Sidekiq, ElasticSearch
 
