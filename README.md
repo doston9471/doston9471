@@ -13,6 +13,7 @@ I'm a passionate full-stack developer with a strong background in building scala
 - **Other:** REST API, GraphQL API, SOLID, OOP, DDD, Kafka, Sidekiq, ElasticSearch
 
 ### 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=doston9471&theme=transparent&hide_border=true&border_radius=0&short_numbers=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doston9471&layout=compact&theme=radical)
 
 ### 🎯 Hobbies & Interests:
