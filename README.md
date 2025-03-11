@@ -5,7 +5,7 @@
 I'm a passionate full-stack developer with a strong background in building scalable web applications and APIs. I have experience working with various technologies, including Ruby on Rails, JavaScript, Golang, and more. My expertise lies in backend development, API design, and system architecture.
 
 ### 🔧 Tech Stack & Skills:
-- **Backend:** Ruby on Rails, Golang, Node.js, Express.js, Elixir, Python, Java, C++
+- **Backend:** Ruby on Rails, Golang, Node.js, Nest.js, Elixir, Python, Java, C++
 - **Frontend:** JavaScript, TypeScript, React.js, Angular, Hotwire, HTML, CSS, Bootstrap, TailwindCSS
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, NoSQL
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Google Cloud, DigitalOcean, Heroku, Bitbucket, GitLab CI/CD, GitHub Actions
