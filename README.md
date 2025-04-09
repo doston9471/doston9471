@@ -18,6 +18,7 @@ I'm a passionate full-stack developer with a strong background in building scala
 ### 🎯 Hobbies & Interests:
 - 🚀 Exploring new technologies
 - 📖 Reading tech blogs & books
+- 🏃🏻‍➡️ Playing football⚽️ with my friends 
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/doston-turgunov-542a89121](https://linkedin.com/in/doston-turgunov-542a89121)
