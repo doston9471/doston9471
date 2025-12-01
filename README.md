@@ -12,9 +12,6 @@ I'm a passionate full-stack developer with a strong background in building scala
 - **Testing & Automation:** RSpec, Selenium, Capybara, E2E Testing, Scraping
 - **Other:** REST API, GraphQL API, SOLID, OOP, DDD, Kafka, Sidekiq, ElasticSearch
 
-### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doston9471&layout=compact&theme=radical)
-
 ### 🎯 Hobbies & Interests:
 - 🚀 Exploring new technologies
 - 📖 Reading tech blogs & books
@@ -26,4 +23,3 @@ I'm a passionate full-stack developer with a strong background in building scala
 - **Email:** doston.7194@gmail.com
 
 📌 Always open to collaboration and new opportunities. Let’s build something amazing together! 🚀
-
